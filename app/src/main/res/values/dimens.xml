@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_bt">100dp</dimen>
+    <dimen name="heigth_bt">100dp</dimen>
+    <dimen name="width02_bt">200dp</dimen>
+</resources>

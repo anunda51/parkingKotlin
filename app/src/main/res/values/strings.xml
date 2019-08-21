@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="bt1_text">Free</string>
+    <string name="bt2_text">Free</string>
+    <string name="bt3_text">Free</string>
+    <string name="car_id">Car ID</string>
+    <string name="carId_text">Car ID</string>
+    <string name="brand_text">Brand</string>
+    <string name="fullname_text">Fullname</string>
+    <string name="update_string">Update</string>
+</resources>
